@@ -4,25 +4,25 @@
 |Name|Description|
 |--|--|
 |**metrics**|Метрики|
-|**common**||
+|**common**|Основные|
 |**rpc**|remoute procedure control|
 |**whisper**||
-|**core**||
-|**crypto**||
-|**event**||
-|**log**||
+|**core**|Ядро|
+|**crypto**|Криптография|
+|**event**|События|
+|**log**|Логирование|
 |**eth**||
 |**trie**||
 |**ethdb**||
-|**params**||
-|**rlp**||
-|**swarm**||
-|**consensuns**||
-|**internal**||
-|**build**||
-|**cmd**||
-|**p2p**||
-
+|**params**|Параметры|
+|**rlp**|Рлп|
+|**swarm**|Сварм|
+|**consensuns**|Конценсус|
+|**internal**|Внешние расположение|
+|**build**|Построение |
+|**cmd**|Комманды|
+|**p2p**|Пир то пир|
+|**accounts**|Создание аккаунтов|
 
 
 
