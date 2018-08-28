@@ -25,7 +25,7 @@
 |**accounts**|Создание аккаунтов|
 
 
-
+# LAYERS
 ### Dapps Layer 5
 
 |Name|Description|
@@ -36,8 +36,6 @@
 |**Mesh networking**||
 |**Open bazzar**||
 |**DAOs/DACs**||
-
-
 
 
 ### Interop Layer 4
